@@ -9,8 +9,8 @@
 1. Register the patient in the app (using phone number, if the patient already exists, just returns the patient info in the API)
 2. After the checkup, create a Report Patient Report will have the following fields
 
-i. Created by doctor 
-ii. Status (With enums as following):
+1> Created by doctor 
+2> Status (With enums as following):
 -> Can be either of: [Negative, Travelled-Quarantine, Symptoms-Quarantine, Positive-Admit]
 -> Date
 
